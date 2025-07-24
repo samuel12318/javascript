@@ -18,3 +18,7 @@ let colors=['blue','red','green','grey'];
 colors[7]='gold';
 console.log(colors.length)
 
+for (let i=0;i<colors.length;i++){
+    console.log("Color "+colors[i])
+}
+
